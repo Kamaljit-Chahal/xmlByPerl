@@ -1,3 +1,3 @@
 # xmlByPerl
 
-Kuka SafeRobot XML using including .xlsx file
+Kuka SafeRobot XML using included .xlsx file
